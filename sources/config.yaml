@@ -1,0 +1,7 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+autohintTTF: false
+sources:
+  - Rosarivo-Italic.glyphs
+  - Rosarivo-Regular.glyphs
